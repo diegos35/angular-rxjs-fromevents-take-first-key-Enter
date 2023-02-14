@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+
+kbd {
+  border: 1px solid lightgray;
+  border-radius: 6px;
+  padding: 5px 10px;
+  background-color: darkgray;
+  color: white;
+}
